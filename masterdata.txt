@@ -1,0 +1,2 @@
+ini adalah master data
+jadi ini akan menjadi base master datanya.
