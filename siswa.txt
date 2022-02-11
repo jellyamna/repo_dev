@@ -1,2 +1,5 @@
 itu data siswa
 ini dari master perubahannya.
+ini data siswabaru
+
+jadi ini file siswa yang akan konfik dengan yang ada di branch master.
